@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "crud-wrbpart",
+    "libraryId": "1b15bb70-1a4b-4d34-9839-8ac4801cf25e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CRUD-Wrbpart",
+    "solutionShortDescription": "CRUD-Wrbpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

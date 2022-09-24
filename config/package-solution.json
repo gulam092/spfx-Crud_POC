@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "crud-wrbpart-client-side-solution",
+    "id": "1b15bb70-1a4b-4d34-9839-8ac4801cf25e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "CRUD-Wrbpart description"
+      },
+      "longDescription": {
+        "default": "CRUD-Wrbpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "crud-wrbpart Feature",
+        "description": "The feature that activates elements of the crud-wrbpart solution.",
+        "id": "72c5bc9d-fcc5-4edf-9005-57b524bb4746",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/crud-wrbpart.sppkg"
+  }
+}
